@@ -82,8 +82,8 @@ Thus, this project aims to **detect, classify, and analyze vehicles using AI** f
 - Standardized labels for vehicle detection  
 
 ### 🔗 Dataset Sources  
-- [Roboflow Vehicle Detection Dataset](https://universe.roboflow.com)  
-- [Kaggle – Top View Vehicle Dataset](https://www.kaggle.com)  
+- Roboflow Project: Top-View Vehicle Detection
+- Kaggle Dataset: Top-View Vehicle Detection Image Dataset
 
 ---
 
